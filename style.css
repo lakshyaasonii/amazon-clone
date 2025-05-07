@@ -240,4 +240,6 @@ ul p{
     background-color: #0f1111;
     text-decoration: underline overline;
     padding: 10px;
+    align-items: center;
 }
+
